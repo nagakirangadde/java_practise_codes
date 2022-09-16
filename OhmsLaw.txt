@@ -1,0 +1,10 @@
+class OhmsLaw
+{
+public static void main(String args[])
+{
+float v,i=1.2,r=1.5;
+
+v=i*r;
+System.out.println("v="+v);
+}
+}
